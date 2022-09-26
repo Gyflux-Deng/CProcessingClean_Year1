@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Tang Xin Wei\Desktop\Software Engineering\New folder\Project1\Src\main.c(20,44): warning C4013: 'CP_Image_Get' undefined; assuming extern returning int
+C:\Users\Tang Xin Wei\Desktop\Software Engineering\New folder\Project1\Src\main.c(22,55): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tang Xin Wei\Desktop\Software Engineering\New folder\Project1\Src\main.c(22,83): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tang Xin Wei\Desktop\Software Engineering\New folder\Project1\Src\main.c(19,68): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tang Xin Wei\Desktop\Software Engineering\New folder\Project1\Src\main.c(20,64): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+main.obj : error LNK2019: unresolved external symbol CP_Image_Get referenced in function game_update
+C:\Users\Tang Xin Wei\Desktop\Software Engineering\New folder\Project1\bin\Debug-x64\Project1.exe : fatal error LNK1120: 1 unresolved externals
